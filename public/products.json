@@ -1,0 +1,322 @@
+[
+    {
+        "_id": "1",
+        "name": "Elegant Floral Dress",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/6gKsPXx/floral.webp",
+        "price": 49.99,
+        "description": "Turn heads with this exquisite floral dress. Its flowing design and vibrant colors make it perfect for any special occasion."
+    },
+    {
+        "_id": "2",
+        "name": "Stylish Men's Shirt",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/DDBXNpy/Stylish-Men-s-Shirt.webp",
+        "price": 39.99,
+        "description": "Look sharp and confident in this modern men's shirt. Versatile for both formal and casual events, it's a wardrobe essential."
+    },
+    {
+        "_id": "3",
+        "name": "Fashionable Sunglasses",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/Jmjrsdg/bvlgari-bv6083-20188g-56-front.jpg",
+        "price": 29.99,
+        "description": "Shield your eyes in style with these trendy sunglasses. The perfect blend of fashion and function for sunny days."
+    },
+    {
+        "_id": "4",
+        "name": "Classic Leather Boots",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/nz7Yjyb/3-9b98d517-24c7-4e67-aceb-66dc40ba7739-600x.webp",
+        "price": 89.99,
+        "description": "Step out in confidence with these timeless leather boots. Durable and stylish, they complement any outfit in your wardrobe."
+    },
+    {
+        "_id": "5",
+        "name": "Adorable Kids' Romper",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/7GXSSzg/719nhp-Pr6-IL.jpg",
+        "price": 19.99,
+        "description": "Dress your little one in this cute romper. Comfortable and charming, it's perfect for playdates and family outings."
+    },
+    {
+        "_id": "6",
+        "name": "Casual Striped Tunic",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/MpSt4LV/CASUAL-STRIPED-TUNIC.webp",
+        "price": 34.99,
+        "description": "Stay stylish and comfortable in this versatile striped tunic. Pair it with jeans or leggings for a chic look."
+    },
+    {
+        "_id": "7",
+        "name": "Chic Pleated Skirt",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/Wpsvcwt/s-l400.jpg",
+        "price": 39.99,
+        "description": "Elevate your outfit with this chic pleated skirt. Perfect for both casual outings and special events."
+    },
+    {
+        "_id": "8",
+        "name": "Comfy Knit Sweater",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/QXjXGPL/HTB1g-CUCkx3-IL1-Jj-SZPfq6-Ar-UVXa5-jpg-640x640q90.jpg",
+        "price": 49.99,
+        "description": "Stay cozy and stylish with this soft knit sweater. A versatile addition to your fall and winter wardrobe."
+    },
+    {
+        "_id": "9",
+        "name": "Bohemian Maxi Dress",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/xm4rWcJ/il-fullxfull-2943985046-nij3.webp",
+        "price": 59.99,
+        "description": "Embrace your bohemian spirit with this flowing maxi dress. Effortlessly chic for beach vacations and summer days."
+    },
+    {
+        "_id": "10",
+        "name": "Formal Evening Gown",
+        "category": "Women's Wear",
+        "image": "https://i.ibb.co/GVkRGxz/17jm.jpg",
+        "price": 129.99,
+        "description": "Make a statement at special events with this stunning formal gown. Elegantly tailored for a sophisticated look."
+    },
+    {
+        "_id": "11",
+        "name": "Casual Polo Shirt",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/Hdqn3Bq/s-l1200.webp",
+        "price": 24.99,
+        "description": "Stay cool and relaxed in this classic polo shirt. Perfect for casual outings and weekend get-togethers."
+    },
+    {
+        "_id": "12",
+        "name": "Versatile Chinos",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/fSc1VDv/0014591-5-pocket-chinos.jpg",
+        "price": 49.99,
+        "description": "Upgrade your wardrobe with these versatile chinos. Dress them up or down for a stylish and polished look."
+    },
+    {
+        "_id": "13",
+        "name": "Sleek Leather Jacket",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/wzvrNDn/Sleek-Leather-Jacket.jpg",
+        "price": 79.99,
+        "description": "Add a touch of edginess to your outfit with this sleek leather jacket. Perfect for a rugged yet refined look."
+    },
+    {
+        "_id": "14",
+        "name": "Formal Tailored Suit",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/HhvdybY/Formal-Tailored-Suit.jpg",
+        "price": 199.99,
+        "description": "Look sharp and sophisticated in this tailored suit. Ideal for weddings, business events, and formal occasions."
+    },
+    {
+        "_id": "15",
+        "name": "Cozy Knit Cardigan",
+        "category": "Men's Wear",
+        "image": "https://i.ibb.co/KXNxhvP/COZY-KNIT-CARDIGAN.webp",
+        "price": 64.99,
+        "description": "Stay warm and stylish with this cozy knit cardigan. A wardrobe staple for the colder seasons."
+    },
+    {
+        "_id": "16",
+        "name": "Trendy Crossbody Bag",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/MR6ySvr/Sa0598d12d9d7470f86941d1701ff6dff-Z.jpg",
+        "price": 39.99,
+        "description": "Carry your essentials in style with this trendy crossbody bag. Perfect for everyday use and nights out."
+    },
+    {
+        "_id": "17",
+        "name": "Chic Wide Brim Hat",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/X3h3PHG/Chic-Wide-Brim-Hat.jpg",
+        "price": 29.99,
+        "description": "Stay fashion-forward and protect yourself from the sun with this chic wide brim hat."
+    },
+    {
+        "_id": "18",
+        "name": "Elegant Statement Necklace",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/f2NBFD5/611-Arw-TRp-ZL.jpg",
+        "price": 49.99,
+        "description": "Add a touch of elegance to your outfit with this stunning statement necklace."
+    },
+    {
+        "_id": "19",
+        "name": "Classic Leather Belt",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/z6jZ9sH/Classic-Leather-Belt.webp",
+        "price": 24.99,
+        "description": "Complete your look with this timeless leather belt. A versatile accessory for any occasion."
+    },
+    {
+        "_id": "20",
+        "name": "Stylish Aviator Sunglasses",
+        "category": "Accessories",
+        "image": "https://i.ibb.co/qr7b6fv/f0c07d-91d4d993e64f439fac2b8743a944453e-mv2.jpg",
+        "price": 34.99,
+        "description": "Stay on-trend with these stylish aviator sunglasses. The perfect accessory for a cool and confident look."
+    },
+    {
+        "_id": "21",
+        "name": "Casual Canvas Sneakers",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/rvHkLTx/s-l1200-1.webp",
+        "price": 39.99,
+        "description": "Step into comfort and style with these casual canvas sneakers. Perfect for everyday wear."
+    },
+    {
+        "_id": "22",
+        "name": "Sophisticated Oxford Shoes",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/VtpWRrY/NICHE-Black-Elegant-brogue-2-800x.webp",
+        "price": 89.99,
+        "description": "Elevate your formal look with these sophisticated Oxford shoes. Classic and refined for special occasions."
+    },
+    {
+        "_id": "23",
+        "name": "Comfy Slide Sandals",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/jg7XkHt/037.webp",
+        "price": 29.99,
+        "description": "Enjoy the warm weather in these comfy slide sandals. Effortlessly stylish for beach days and leisurely strolls."
+    },
+    {
+        "_id": "24",
+        "name": "Fashionable Chelsea Boots",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/M8HFKHQ/968130d714c5fd49e662bce90d5d88af.jpg",
+        "price": 79.99,
+        "description": "Add a touch of edge to your outfit with these fashionable Chelsea boots. Versatile and trendy for any season."
+    },
+    {
+        "_id": "25",
+        "name": "Sporty Running Shoes",
+        "category": "Footwear",
+        "image": "https://i.ibb.co/RvF48KF/asian-mens-wonder-13-sports-running-shoes.webp",
+        "price": 54.99,
+        "description": "Stay active and comfortable with these sporty running shoes. Designed for optimum performance and style."
+    },
+    {
+        "_id": "26",
+        "name": "Adorable Baby Onesie",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/Y3gs340/Adorable-Baby-Onesie.webp",
+        "price": 19.99,
+        "description": "Dress your little bundle of joy in this adorable baby onesie. Soft and cute for snuggles and playtime."
+    },
+    {
+        "_id": "27",
+        "name": "Playful Kids' Backpack",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/mvwmZ2g/066da95bd72d967de0458923215d3029107e2b18-original.jpg",
+        "price": 34.99,
+        "description": "Let your child carry their belongings in this playful and practical kids' backpack."
+    },
+    {
+        "_id": "28",
+        "name": "Cute Cartoon T-Shirt",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/X7vhRGr/Cute-Cartoon-T-Shirt.webp",
+        "price": 14.99,
+        "description": "Let your little one's personality shine with this cute cartoon t-shirt. Fun and colorful for everyday wear."
+    },
+    {
+        "_id": "29",
+        "name": "Cozy Kids' Pajamas",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/ypTsKLD/Cozy-Kids-Pajamas.jpg",
+        "price": 24.99,
+        "description": "Ensure a good night's sleep for your child with these cozy and cute kids' pajamas."
+    },
+    {
+        "_id": "30",
+        "name": "Stylish Kids' Sunglasses",
+        "category": "Kids' Corner",
+        "image": "https://i.ibb.co/jDhSzkf/Stylish-Kids-Sunglasses.webp",
+        "price": 19.99,
+        "description": "Protect your child's eyes in style with these stylish kids' sunglasses. Perfect for outdoor adventures."
+    },
+    {
+        "_id": "31",
+        "name": "Elegant Floral Dress",
+        "category": "Offered",
+        "image": "https://i.ibb.co/6gKsPXx/floral.webp",
+        "price": 49.99,
+        "description": "Turn heads with this exquisite floral dress. Its flowing design and vibrant colors make it perfect for any special occasion."
+    },
+    {
+        "_id": "32",
+        "name": "Stylish Men's Shirt",
+        "category": "Offered",
+        "image": "https://i.ibb.co/DDBXNpy/Stylish-Men-s-Shirt.webp",
+        "price": 39.99,
+        "description": "Look sharp and confident in this modern men's shirt. Versatile for both formal and casual events, it's a wardrobe essential."
+    },
+    {
+        "_id": "33",
+        "name": "Fashionable Sunglasses",
+        "category": "Offered",
+        "image": "https://i.ibb.co/Jmjrsdg/bvlgari-bv6083-20188g-56-front.jpg",
+        "price": 29.99,
+        "description": "Shield your eyes in style with these trendy sunglasses. The perfect blend of fashion and function for sunny days."
+    },
+    {
+        "_id": "34",
+        "name": "Classic Leather Boots",
+        "category": "Offered",
+        "image": "https://i.ibb.co/nz7Yjyb/3-9b98d517-24c7-4e67-aceb-66dc40ba7739-600x.webp",
+        "price": 89.99,
+        "description": "Step out in confidence with these timeless leather boots. Durable and stylish, they complement any outfit in your wardrobe."
+    },
+    {
+        "_id": "35",
+        "name": "Adorable Kids' Romper",
+        "category": "Offered",
+        "image": "https://i.ibb.co/7GXSSzg/719nhp-Pr6-IL.jpg",
+        "price": 19.99,
+        "description": "Dress your little one in this cute romper. Comfortable and charming, it's perfect for playdates and family outings."
+    },
+    {
+        "_id": "36",
+        "name": "Formal Tailored Suit",
+        "category": "Popular",
+        "image": "https://i.ibb.co/8Dz0B6F/FORMAL-TAILORED-SUIT.webp",
+        "price": 199.99,
+        "description": "Look sharp and sophisticated in this tailored suit. Ideal for weddings, business events, and formal occasions."
+    },
+    {
+        "_id": "37",
+        "name": "Casual Canvas Sneakers",
+        "category": "Popular",
+        "image": "https://i.ibb.co/hXBbRdw/Casual-Canvas-Sneakers.webp",
+        "price": 39.99,
+        "description": "Step into comfort and style with these casual canvas sneakers. Perfect for everyday wear."
+    },
+    {
+        "_id": "38",
+        "name": "Trendy Crossbody Bag",
+        "category": "Popular",
+        "image": "https://i.ibb.co/sHxDMq6/Trendy-Crossbody-Bag.webp",
+        "price": 39.99,
+        "description": "Carry your essentials in style with this trendy crossbody bag. Perfect for everyday use and nights out."
+    },
+    {
+        "_id": "39",
+        "name": "Adorable Baby Onesie",
+        "category": "Popular",
+        "image": "https://i.ibb.co/cN9Xs4x/Adorable-Baby-Onesie.jpg",
+        "price": 19.99,
+        "description": "Dress your little bundle of joy in this adorable baby onesie. Soft and cute for snuggles and playtime."
+    },
+    {
+        "_id": "38",
+        "name": "Trendy Crossbody Bag",
+        "category": "Offered",
+        "image": "https://i.ibb.co/sHxDMq6/Trendy-Crossbody-Bag.webp",
+        "price": 39.99,
+        "description": "Carry your essentials in style with this trendy crossbody bag. Perfect for everyday use and nights out."
+    }
+]
